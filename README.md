@@ -14,6 +14,7 @@ It is known that tourism can have a momentous effect on a country’s economy an
 ![Alt text](ReadME/4.jpg)
 
 # Results 
+
  1. Tourist demographic: The majority of tourists are in their 30s and have a diploma, and they use social media platforms like Facebook and Twitter to share details of their trip. This information can be helpful for businesses that cater to tourists, such as hotels, restaurants, and tour operators, to target their marketing and advertising efforts towards this demographic.
  
 2. Local operators vs. roaming: Tourists from India and the US are more likely to use local operators instead of roaming, while tourists from Australia and Canada are more likely to use roaming. This suggests that tourists from different regions may have different preferences and needs when it comes to mobile network services. Businesses in the telecommunications industry could use this information to tailor their services to better suit the needs of different tourist groups.
