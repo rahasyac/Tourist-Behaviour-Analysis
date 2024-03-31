@@ -6,7 +6,7 @@ The raw data provides information about how tourists behave during the trip with
 It is known that tourism can have a momentous effect on a country’s economy and gaining insight into how it this be leveraged using smartphones as well as provide the tourist an enjoyable experience is ultimately a mutually beneficial endeavor.  The goal is to analyze the relationship between smartphone usage and international tourist behavior in the city of Bandung, Indonesia, and to understand the extent of the impact that smartphone usage has on tourists. This will be achieved by analyzing the questionnaire data and Trip Advisor data to gain insights into how tourists use their smartphones during their trip, how they use social media, how they plan their trip using online resources, and how they rate hotels and tourist attractions. 
 
 # Architecture Diagram
-
+![Image Alt text](/ReadME/1.jpg)
 
 # Dashboards
 
