@@ -9,10 +9,15 @@ It is known that tourism can have a momentous effect on a country’s economy an
 ![Alt text](ReadME/1.jpg)
 
 # Dashboards
-
+![Alt text](ReadME/2.jpg)
+![Alt text](ReadME/3.jpg)
+![Alt text](ReadME/4.jpg)
 
 # Results 
  1. Tourist demographic: The majority of tourists are in their 30s and have a diploma, and they use social media platforms like Facebook and Twitter to share details of their trip. This information can be helpful for businesses that cater to tourists, such as hotels, restaurants, and tour operators, to target their marketing and advertising efforts towards this demographic.
+ 
 2. Local operators vs. roaming: Tourists from India and the US are more likely to use local operators instead of roaming, while tourists from Australia and Canada are more likely to use roaming. This suggests that tourists from different regions may have different preferences and needs when it comes to mobile network services. Businesses in the telecommunications industry could use this information to tailor their services to better suit the needs of different tourist groups.
+   
 3. Top places and hotels: The top places and hotels have been calculated based on both the number of ratings and the highest reviews. This information can be useful for tourists who are looking for popular and highly rated places to visit or stay, as well as for businesses that want to improve their ratings and reviews by providing quality services and experiences to their customers.
+   
 4. Internet usage: The average hours of internet usage by places visited shows that internet usage is lowest in places like religious sites and highest in places like shopping malls. This information can be helpful for businesses that offer free Wi-Fi or other internet-related services, as they can target their efforts towards places where internet usage is higher. Additionally, it suggests that tourists may have different needs and preferences when it comes to internet access depending on the places they visit.
